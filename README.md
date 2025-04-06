@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Aaadddiii6
-- 👀 I’m interested in frontend development, app development and also UI/UX designing
-- 🌱 I’m currently doing Btech in Cse-DS from Maharaja Agrasen Institute Of Technology 
-- 💞️ I’m looking to collaborate on web and app development projects
-- 📫 you can reach ne via Mail- adityabhattacharya608@gmail.com
-- 😄 Pronouns: He
+## 👋 Hey there, I'm Aditya Bhattacharya
+
+- 🎨 Passionate about frontend development, app development, and UI/UX design  
+- 🎓 Currently pursuing B.Tech in CSE with a specialization in Data Science at Maharaja Agrasen Institute of Technology  
+- 🤝 Looking to collaborate on exciting web and mobile development projects  
+- 📬 Reach out to me at: adityabhattacharya608@gmail.com  
+- 😄 Pronouns: He/Him
+
 
 
 <!---
